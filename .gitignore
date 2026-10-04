@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.ipynb_checkpoints/
+results/*.pth
+# Jika dataset terlalu besar, simpan raw data lokal dan commit metadata + sumber data.
+data/split/
